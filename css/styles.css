@@ -54,6 +54,9 @@ h1{
   height: 400px;
   font-size: 100px;
 }
+.decrease{
+  width: 90px;
+}
 button{
   cursor: pointer;
   font-size: 70px;
